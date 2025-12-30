@@ -1,6 +1,6 @@
 # Site settings
-title: Personal Photo Collage 
-description: 'A collection of drone photos' # this means to ignore newlines until "baseurl:"
+title: Historia Volatus
+description: 'Historical recollections and introspection through drone flights ' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: 
